@@ -16,3 +16,7 @@
   h4{text-align: center;margin-top: 10px;}
 #addBtn{width:220px; margin-left: 40%;margin-bottom:10px;}
 
+
+.modal-dialog {
+  width: 860px;
+}
